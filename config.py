@@ -1,5 +1,5 @@
 WTF_CSRF_ENABLED = True
-SECRET_KEY = 'Llama1llama!'
+SECRET_KEY = 'hackmeplz'
 
 OPENID_PROVIDERS = [
 	{'name': 'Yahoo', 'url': 'https://me.yahoo.com'},
